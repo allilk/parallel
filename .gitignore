@@ -6,3 +6,6 @@ node_modules
 .env
 .env.*
 !.env.example
+.npmrc
+package-lock.json
+.gitignore
